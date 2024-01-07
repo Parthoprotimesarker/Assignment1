@@ -10,12 +10,14 @@
 text-align: center;
 }
 .holyday{
- 
+ text-align: center;
+ margin: 100px 0px 0px 0px;
 }
 .color{
     margin: 0px 500px 20px 500px ;
 background-color: rgb(201, 113, 130);
 text-align: center;
+text align 0px;;
 }
 .but{
 background-color: red;
@@ -25,5 +27,19 @@ border: 10px;
 margin: 0px 0px 100px 0px;
 
 
+
+}
+.Rectangle{
+
+   display: flex;
+   height: 400px;
+   width: 300px;
+   padding: 0px 500px;
+}
+.red{
+
+    width: 90px;
+height: 229px;
+padding:
 
 }
