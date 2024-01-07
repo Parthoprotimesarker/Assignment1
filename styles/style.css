@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+.discount{
+ color: red;
+ text-align: center;
+}
+.party-time{
+text-align: center;
+}
+.holyday{
+ margin-top:0px;
+}
