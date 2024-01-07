@@ -10,5 +10,20 @@
 text-align: center;
 }
 .holyday{
- margin-top:0px;
+ 
+}
+.color{
+    margin: 0px 500px 20px 500px ;
+background-color: rgb(201, 113, 130);
+text-align: center;
+}
+.but{
+background-color: red;
+color: white;
+padding: 10px;
+border: 10px;
+margin: 0px 0px 100px 0px;
+
+
+
 }
