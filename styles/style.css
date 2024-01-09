@@ -1,49 +1,75 @@
-.header{
+.header {
     display: flex;
     align-items: center;
 }
-.discount{
- color: red;
- text-align: center;
+
+.discount {
+    color: red;
+    text-align: center;
 }
-.party-time{
-text-align: center;
+
+.party-time {
+    text-align: center;
 }
-.holyday{
- text-align: center;
- margin: 100px 0px 0px 0px;
+
+.holyday {
+    text-align: center;
+    margin: 100px 0px 0px 0px;
 }
-.color{
-    margin: 0px 500px 20px 500px ;
-background-color: rgb(201, 113, 130);
-text-align: center;
-text-align: center
+
+.color {
+    margin: 0px 500px 20px 500px;
+    background-color: rgb(201, 113, 130);
+    text-align: center;
+    text-align: center
 }
-.but{
-background-color: red;
-color: white;
-padding: 10px;
-border: 10px;
-margin: 0px 0px 100px 0px;
+
+.but {
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    margin: 0px 0px 100px 0px;
 
 
 
 }
-.Rectangle{
 
-   display: flex;
-   height: 400px;
-   width: 300px;
-   padding: 0px 500px;
+.Rectangle {
+
+    display: flex;
+    height: 400px;
+    width: 300px;
+    padding: 0px 500px;
 }
-.red{
 
-   margin: 0px 0px 10px 0px ;
-   align-items: center;
+.red {
+
+    margin: 0px 0px 10px 0px;
+    align-items: center;
 
 
 }
-.best{
+
+.best {
     color: red;
     margin-left: 10px;
 }
+
+.item {
+    display: inline-table;
+    margin: 100px 100px 0px 400px;
+}
+
+.sub {
+    margin: 0px 340px 0px 380px;
+    height: 200px;
+    width: 1300px;
+    border-radius: 16px;
+    background: #FF00000D 
+    padding-box 100px
+    
+    }
+.not{
+align-items: center;
+    }
